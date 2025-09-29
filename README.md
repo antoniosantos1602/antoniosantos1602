@@ -9,4 +9,5 @@
 
 | UC   | Name | Description | Technologies |
 |------|------|-------------|---------------|
-| **IART** | [LTW](https://github.com/antoniosantos1602/LTW) | Classic game built in Python | Python |
+| **LTW** | [LTW](https://github.com/antoniosantos1602/LTW) | - | Php, JavaScript, HTML, CSS |
+| **IART** | [IART](https://github.com/antoniosantos1602/IART) | - | Python |
