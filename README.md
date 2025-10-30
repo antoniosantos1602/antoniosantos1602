@@ -25,7 +25,7 @@
 |------|------|-------------|---------------|
 | **IART** | [IART](https://github.com/antoniosantos1602/IART) | - | Python |
 | **DataMiningI** | [DataMining](https://github.com/antoniosantos1602/DataMining) | - | Python |
-| **DataMiningII** | [DataMiningI](https://github.com/antoniosantos1602/DataMiningI) | - | Python |
+| **DataMiningII** | [DataMiningI](https://github.com/antoniosantos1602/DataMiningI) | - | R |
 ## Systems Administration and Cloud Administration
 
 | UC   | Name | Description | Technologies |
@@ -44,11 +44,11 @@
 |------|-------------|---------------|
 | **Network Computers** | [RCOM](https://github.com/antoniosantos1602/RCOM) | - | C |
 | **Advanced Networking Topics** | [Topicos_Avan-ados_Redes](https://github.com/antoniosantos1602/Topicos_Avan-ados_Redes) | - | - |
-| **Network Administration** | [ADR](https://github.com/antoniosantos1602/ADR) | - | - |
+| **Network Administration** | [ADR](https://github.com/antoniosantos1602/ADR) | - | Proxmox, Shell, GNS3 |
 
 ## Kubernetes 
 | Name | Description | Technologies |
 |------|-------------|---------------|
-| **Kubernetes** | [ADS](https://github.com/antoniosantos1602/ADS) | - | GCP, Terraform, Ceph |
+| **Kubernetes** | [ADS](https://github.com/antoniosantos1602/ADS) | - | GCP, Terraform |
 
 
