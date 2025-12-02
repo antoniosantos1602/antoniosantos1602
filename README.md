@@ -48,6 +48,6 @@
 ## Kubernetes 
 | Name | Description | Technologies |
 |------|-------------|---------------|
-| **Kubernetes** | [ADS](https://github.com/antoniosantos1602/ADS) | - | GCP, Terraform |
+| **Kubernetes** | | - | GCP, Terraform |
 
 
