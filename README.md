@@ -10,11 +10,10 @@
 | UC   | Name | Description | Technologies |
 |------|------|-------------|---------------|
 | **LTW** | [LTW](https://github.com/antoniosantos1602/LTW) | - | Php, JavaScript, HTML, CSS |
-| **IART** | [IART](https://github.com/antoniosantos1602/IART) | - | Python |
 | **LBAW** | [LBAW](https://github.com/antoniosantos1602/LBAW) | Tech4life | Laravel, PostgreSQL, HTML, CSS, Bootstrap5, PHP |
 | **Compilers** | [Compiladores](https://github.com/antoniosantos1602/Compiladores) | - | Java |
 | **LCOM** | [LCOM](https://github.com/antoniosantos1602/LCOM) | - | C |
-| **ESOF** | [RCOM](https://github.com/antoniosantos1602/ESOF) | - | Flutter |
+| **ESOF** | [RCOM](https://github.com/antoniosantos1602/ESOF) | UniApp | Flutter |
 | **DataBases** | [Base-Dados](https://github.com/antoniosantos1602/Base-Dados) | - | MYSQL |
 | **CPD** | [CPD](https://github.com/antoniosantos1602/CPD) | - | Java |
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
@@ -23,7 +22,7 @@
 
 | UC   | Name | Description | Technologies |
 |------|------|-------------|---------------|
-| **IART** | [IART](https://github.com/antoniosantos1602/IART) | - | Python |
+| **IART** | [IART](https://github.com/antoniosantos1602/IART) | SymmetryPuzzleAI | Python |
 | **DataMiningI** | [DataMining](https://github.com/antoniosantos1602/DataMining) | - | Python |
 | **DataMiningII** | [DataMiningI](https://github.com/antoniosantos1602/DataMiningI) | - | R |
 ## Systems Administration and Cloud Administration
