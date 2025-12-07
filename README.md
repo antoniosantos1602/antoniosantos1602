@@ -48,6 +48,6 @@
 ## Kubernetes 
 | Name | Description | Technologies |
 |------|-------------|---------------|
-| **Kubernetes** | [spring-app](https://github.com/antoniosantos1602/spring-app) [manifests](https://github.com/antoniosantos1602/k8s-manifests) [Terraform](https://github.com/antoniosantos1602/private-gke)  | GCP, Terraform |
+| **Kubernetes** | [spring-app](https://github.com/antoniosantos1602/spring-app) [manifests](https://github.com/antoniosantos1602/k8s-manifests) [Terraform](https://github.com/antoniosantos1602/private-gke)  | GCP, Terraform, ArgoCD, Kubernetes, NGINX, SpringBoot, GithubActions |
 
 
