@@ -17,6 +17,7 @@
 | **DataBases** | [Base-Dados](https://github.com/antoniosantos1602/Base-Dados) | - | MYSQL |
 | **CPD** | [CPD](https://github.com/antoniosantos1602/CPD) | - | Java |
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
+| **DAA** | | | | |
 
 ## Artificial Inteligence 
 
@@ -37,7 +38,7 @@
 |------|-------------|---------------|
 | **FSI** | [FSI](https://github.com/antoniosantos1602/FSI) | - | - |
 | **NetworkSecurity**| [Network-Security](https://github.com/antoniosantos1602/Network-Security ) | - | Security Onion |
-| **SystemsDataSecurity | | Java | 
+| **SystemsDataSecurity** | | Java | 
 
 ## Network Administration and Advanced Networking Topics 
 | Name | Description | Technologies |
