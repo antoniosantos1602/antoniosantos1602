@@ -17,7 +17,7 @@
 | **DataBases** | [Base-Dados](https://github.com/antoniosantos1602/Base-Dados) | - | MYSQL |
 | **CPD** | [CPD](https://github.com/antoniosantos1602/CPD) | - | Java |
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
-| **DAA** | | | | |
+| **DAA** |[DA](https://github.com/antoniosantos1602/DA) | | | C++|
 |**Processamento-de-Documentos-Estruturados** | | | | |
 | **IT Project Management** | | | | |
 
