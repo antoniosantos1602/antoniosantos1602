@@ -19,6 +19,7 @@
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
 | **DAA** | | | | |
 |**Processamento-de-Documentos-Estruturados** | | | | |
+| **IT Project Management** | | | | |
 
 
 ## Artificial Inteligence 
