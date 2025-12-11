@@ -19,7 +19,7 @@
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
 | **DAA** |[DA](https://github.com/antoniosantos1602/DA) | | | C++|
 |**Processamento-de-Documentos-Estruturados** | | | | |
-| **IT Project Management** | [PM](https://github.com/antoniosantos1602/Software-Project-Management| | | |
+| **IT Project Management** | [PM](https://github.com/antoniosantos1602/Software-Project-Management)| | | |
 
 
 ## Artificial Inteligence 
