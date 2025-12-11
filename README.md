@@ -1,6 +1,6 @@
 # Hi I'm António 👋
 
-🎓 I have a Bachelor's degree in Informatics and Computing Engineering from @FEUP  
+🎓 I have a Bachelor's degree in Informatics and Computing Engineering from FEUP  
 
 🎓 I am a Master's student in Network and Information Systems Engineering at FCUP.  
 
@@ -15,11 +15,12 @@
 | **LCOM** | [LCOM](https://github.com/antoniosantos1602/LCOM) | - | C |
 | **ESOF** |  | UniApp | Flutter |
 | **DataBases** | [Base-Dados](https://github.com/antoniosantos1602/Base-Dados) | - | MYSQL |
-| **CPD** | [CPD](https://github.com/antoniosantos1602/CPD) | - | Java |
+| **CPD** | [CPD](https://github.com/antoniosantos1602/CPD_projects) | - | Java |
 | **CG** | [CG](https://github.com/antoniosantos1602/CG) | - | JS |
 | **DAA** |[DA](https://github.com/antoniosantos1602/DA) | | | C++|
 |**Processamento-de-Documentos-Estruturados** | | | | |
 | **IT Project Management** | [PM](https://github.com/antoniosantos1602/Software-Project-Management)| | | |
+
 
 
 ## Artificial Inteligence 
