@@ -35,7 +35,7 @@
 | UC   | Name | Description | Technologies |
 |------|------|-------------|---------------|
 | **ADS** | [ADS](https://github.com/antoniosantos1602/ADS) | - | GCP, Terraform, Ceph |
-| **CloudAdministration** |  [CloudAdministration](https://github.com/antoniosantos1602/Cloud| - | GCP, Terraform, Ceph, Grafana, Prometheus |
+| **CloudAdministration** |  [CloudAdministration](https://github.com/antoniosantos1602/Cloud)| - | GCP, Terraform, Ceph, Grafana, Prometheus |
 
 ## Fundamentals of Computer Security and Network Security 
 | Name | Description | Technologies |
